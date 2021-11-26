@@ -11,3 +11,15 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
 There are a lot of leads generated in the initial stage but only a few of them come out as paying customers. In the middle stage, we have to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc.) in order to get a higher lead conversion.
 
+The Major Goal is to predict the promising leads i.e. the leads that are most likely to convert into paying customers. The company wants to build a model wherein lead scores will be assigned to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. 
+Apart from the major goal, the company also wants to know the factors that are majorly contributing towards conversion of the lead. 
+
+Approach Towards the Problem:
+1. Data Understanding: After Analysing the Business Goal, looking at the Data we have.
+Dataset from the past with around 9000 data points. This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. The target variable, in this case, is the column ‘Converted’ which tells whether a past lead was converted or not wherein 1 means it was converted and 0 means it wasn’t converted. 
+
+2. Data Cleaning
+
+
+
+
